@@ -3,8 +3,8 @@ package handlers
 import (
 	"strings"
 
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
+	"github.com/veerpratap6870/gotgbot"
+	"github.com/veerpratap6870/gotgbot/ext"
 )
 
 type baseCommand struct {
