@@ -7,7 +7,7 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/PaulSonOfLars/gotgbot/ext"
+	"github.com/veerpratap6870/gotgbot/ext"
 )
 
 // RawUpdate alias to json.RawMessage
