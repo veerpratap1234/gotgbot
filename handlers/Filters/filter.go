@@ -3,8 +3,8 @@ package Filters
 import (
 	"strings"
 
-	"github.com/PaulSonOfLars/gotgbot/dice"
-	"github.com/PaulSonOfLars/gotgbot/ext"
+	"github.com/veerpratap6870/gotgbot/dice"
+	"github.com/veerpratap6870/gotgbot/ext"
 )
 
 func All(message *ext.Message) bool {
