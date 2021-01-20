@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/veerpratap6870/gotgbot/gotgbot"
+	"github.com/veerpratap6870/gotgbot"
 	"github.com/veerpratap6870/gotgbot/ext"
 )
 
