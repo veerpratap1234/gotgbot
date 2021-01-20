@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/PaulSonOfLars/gotgbot/parsemode"
+	"github.com/veerpratap6870/gotgbot/parsemode"
 )
 
 func (b Bot) SendMessage(chatId int, text string) (*Message, error) {
