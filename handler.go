@@ -3,7 +3,7 @@ package gotgbot
 import (
 	"encoding/json"
 
-	"github.com/veerpratap6870/gotgbot/ext"
+	"github.com/veerpratap1234/gotgbot/ext"
 )
 
 type Handler interface {
