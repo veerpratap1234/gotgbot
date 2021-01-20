@@ -5,8 +5,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/PaulSonOfLars/gotgbot"
-	"github.com/PaulSonOfLars/gotgbot/ext"
+	"github.com/veerpratap6870/gotgbot"
+	"github.com/veerpratap6870/gotgbot/ext"
 )
 
 type CallBack struct {
