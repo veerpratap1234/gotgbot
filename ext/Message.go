@@ -9,7 +9,7 @@ import (
 	"unicode"
 	"unicode/utf16"
 
-	"github.com/PaulSonOfLars/gotgbot/parsemode"
+	"github.com/veerpratap6870/gotgbot/parsemode"
 )
 
 type MessageEntity struct {
