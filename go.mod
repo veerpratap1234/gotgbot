@@ -1,4 +1,4 @@
-module github.com/veerpratap6870/gotgbot
+module github.com/veerpratap1234/gotgbot
 
 go 1.13
 
