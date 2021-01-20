@@ -13,7 +13,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/veerpratap6870/gotgbot/ext"
+	"github.com/veerpratap1234/gotgbot/ext"
 )
 
 // Updater The main updater process. Receives incoming updates, then sends them to the dispatcher goroutine
